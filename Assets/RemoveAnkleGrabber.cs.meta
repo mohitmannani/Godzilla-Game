@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 65e92f1fc135aaf49ae7f27a5d1d622d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ankleGrabberPrefab: {fileID: 1363024495875198, guid: 656835c98f7180548bfc0a3c70bdbd94, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
